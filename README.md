@@ -1,5 +1,7 @@
 **ECG Signal Classification for Arrhythmia Detection**
+
 **Project Overview**
+
 This project focuses on analyzing and classifying ECG signals from the MIT-BIH Arrhythmia Database. The goal is to classify the signals into 5 distinct classes representing different types of arrhythmia.
 
 **Dataset**
